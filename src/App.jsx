@@ -7,7 +7,7 @@ import User from "./pages/User";
 import Contact from "./pages/Contact";
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Navbar/Footer";
-import Cart from "./pages/cart";
+import Cart from "./pages/Cart.jsx";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Error from "./pages/Error";
 import 'font-awesome/css/font-awesome.min.css';
